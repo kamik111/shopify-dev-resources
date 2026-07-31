@@ -12,15 +12,16 @@ Everything here is meant to be useful on its own: open a file, work through it, 
 | Resource | What it is |
 | --- | --- |
 | [Shopify Development Quote Checklist](checklists/shopify-development-quote-checklist.md) | Read and compare developer/agency quotes line by line — what a complete quote includes, red flags, benchmark rates to sanity-check against, and first-year recurring costs. |
+| [Shopify Store Code Audit Checklist](checklists/shopify-store-code-audit-checklist.md) | Audit a store you did not build — 68 checks across theme generation, ghost code from removed apps, ScriptTags, dated checkout/Scripts liabilities, access and API scopes, tampering triage, and the fix-or-rebuild verdict. |
 
 More resources will be added over time.
 
 ## Full breakdowns
 
-Each checklist condenses a longer, fully-sourced article. For the numbers, scenarios, and
-context behind the quote checklist, see
-[Shopify Store Development Cost](https://shopify.ecom-store.pro/blog/shopify-store-development-cost/)
-on the blog.
+Each checklist condenses a longer, fully-sourced article:
+
+- Quote checklist → [Shopify Store Development Cost](https://shopify.ecom-store.pro/blog/shopify-store-development-cost/)
+- Code audit checklist → [Shopify Store Code Audit](https://shopify.ecom-store.pro/blog/shopify-store-code-audit/)
 
 ---
 
